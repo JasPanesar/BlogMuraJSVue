@@ -1,0 +1,55 @@
+ul.nav li {
+  margin-left: 3px;
+}
+pre strong {
+  font-weight: normal;
+}
+pre strong.data {
+  font-weight: bold;
+  color: #0066ff;
+}
+pre strong.vue {
+  font-weight: bold;
+  color: #ff3399;
+}
+pre strong.promise {
+  font-weight: bold;
+  color: #33cc33;
+}
+.box {
+  font-size: 1em !important;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+.box p {
+  margin-bottom: 0.3rem !important;
+}
+.box h1,.box h2,.box h3 {
+  font-size: 1.2em !important;
+}
+.btn-data {
+  border-color: #0066ff;
+  background-color: #0066ff;
+  color: #fff;
+}
+.btn-vue {
+  border-color: #ff3399;
+  background-color: #ff3399;
+  color: #fff;
+}
+.btn-promise {
+  border-color: #33cc33;
+  background-color: #33cc33;
+  color: #fff;
+}
+#leftpane {
+width: 30%;
+float: left";
+}
+#rightpane {
+  width: 68%;
+  float: right;
+  padding: 0 0 0 10px;
+}
